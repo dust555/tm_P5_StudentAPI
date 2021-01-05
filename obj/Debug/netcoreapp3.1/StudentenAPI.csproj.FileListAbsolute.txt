@@ -1,0 +1,66 @@
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\obj\Debug\netcoreapp3.1\StudentenAPI.csprojAssemblyReference.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\obj\Debug\netcoreapp3.1\StudentenAPI.AssemblyInfoInputs.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\obj\Debug\netcoreapp3.1\StudentenAPI.AssemblyInfo.cs
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\obj\Debug\netcoreapp3.1\StudentenAPI.csproj.CoreCompileInputs.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\obj\Debug\netcoreapp3.1\StudentenAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\bin\Debug\netcoreapp3.1\StudentenAPI.exe
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\bin\Debug\netcoreapp3.1\StudentenAPI.deps.json
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\bin\Debug\netcoreapp3.1\StudentenAPI.runtimeconfig.json
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\bin\Debug\netcoreapp3.1\StudentenAPI.runtimeconfig.dev.json
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\bin\Debug\netcoreapp3.1\StudentenAPI.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\bin\Debug\netcoreapp3.1\StudentenAPI.pdb
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\obj\Debug\netcoreapp3.1\staticwebassets\StudentenAPI.StaticWebAssets.Manifest.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\obj\Debug\netcoreapp3.1\staticwebassets\StudentenAPI.StaticWebAssets.xml
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudentenAPI.styles.css
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\obj\Debug\netcoreapp3.1\StudentenAPI.RazorTargetAssemblyInfo.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\obj\Debug\netcoreapp3.1\StudentenAPI.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\obj\Debug\netcoreapp3.1\StudentenAPI.pdb
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI\obj\Debug\netcoreapp3.1\StudentenAPI.genruntimeconfig.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\StudentenAPI.exe
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\StudentenAPI.deps.json
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\StudentenAPI.runtimeconfig.json
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\StudentenAPI.runtimeconfig.dev.json
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\StudentenAPI.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\StudentenAPI.pdb
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\StudentenAPI.csprojAssemblyReference.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\StudentenAPI.AssemblyInfoInputs.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\StudentenAPI.AssemblyInfo.cs
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\StudentenAPI.csproj.CoreCompileInputs.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\StudentenAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\staticwebassets\StudentenAPI.StaticWebAssets.Manifest.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\staticwebassets\StudentenAPI.StaticWebAssets.xml
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\scopedcss\bundle\StudentenAPI.styles.css
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\StudentenAPI.RazorTargetAssemblyInfo.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\StudentenAPI.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\StudentenAPI.pdb
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\StudentenAPI.genruntimeconfig.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\obj\Debug\netcoreapp3.1\StudentenAPI.csproj.CopyComplete
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\Graduaat - Programmeren 5\2020-2021\Examples\StudentenAPI - Copy\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
